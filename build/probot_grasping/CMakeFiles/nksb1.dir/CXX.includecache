@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bingheng-xie/ur_us/src/probot_grasping/src/nksb1.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+math.h
+-
+

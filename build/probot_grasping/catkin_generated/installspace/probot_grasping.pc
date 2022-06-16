@@ -1,0 +1,8 @@
+prefix=/home/bingheng-xie/ur_us/install
+
+Name: probot_grasping
+Description: Description of probot_grasping
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs message_runtime
